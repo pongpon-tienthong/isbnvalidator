@@ -27,7 +27,7 @@ Option 2: Use gradlew (not recommended)
 ![alt text](https://github.com/pongpon-tienthong/isbnvalidator/raw/master/images/13DigitFormula.png)
 * Both 10 and 13 digit ISBN can also end with 'X' which is equal to 10.
 
-[Ref: International Standard Book Number (ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
+[Ref: International Standard Book Number (ISBN)](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
 
 #### Test Data
 10 Digit ISBN
