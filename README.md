@@ -24,7 +24,6 @@ Option 2: Use gradlew (not recommended)
 ![alt text](https://github.com/pongpon-tienthong/isbnvalidator/raw/master/images/10DigitFormula.png)
 ![alt text](https://github.com/pongpon-tienthong/isbnvalidator/raw/master/images/10DigitExample.png)
 
-
 [Ref: International Standard Book Number (ISBN](https://en.wikipedia.org/wiki/International_Standard_Book_Number)
 
 #### Test Data
