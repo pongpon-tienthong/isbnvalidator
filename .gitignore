@@ -15,27 +15,15 @@ gradle-app.setting
 # Log file
 *.log
 
-# Mobile Tools for Java (J2ME)
-.mtj.tmp/
-
 # Package Files #
 *.jar
-
-# User-specific stuff
-.idea/**/workspace.xml
-.idea/**/tasks.xml
-.idea/**/usage.statistics.xml
-.idea/**/dictionaries
-.idea/**/shelf
-
-# Sensitive or high-churn files
-.idea/
 
 # CMake
 cmake-build-*/
 
 # IntelliJ
 out/
+.idea/
 
 # mpeltonen/sbt-idea plugin
 .idea_modules/
