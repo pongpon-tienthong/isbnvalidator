@@ -40,3 +40,9 @@ Option 2: Use gradlew (not recommended)
 * 978-0998406268
 * 978-0553384611
 * 978-1501135910
+
+#### References
+*https://agiledeveloper.com/presentations/benefits_of_tdd.pdf
+*http://cecs.wright.edu/~pmateti/Courses/7140/Lectures/Testing/TDD/tdd-calpoly-slides.pdf
+*https://pdfs.semanticscholar.org/presentation/ba62/a5f96a0eab94a18766fdd10c91cb02d4630c.pdf
+*https://www.udemy.com/practical-test-driven-development-for-java-programmers/learn/v4/content
