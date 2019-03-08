@@ -23,7 +23,7 @@ Option 2: Use gradlew (not recommended)
 * 10 digit ISBNs will be valid if it satisfies this formula
 ![alt text](https://github.com/pongpon-tienthong/isbnvalidator/raw/master/images/10DigitFormula.png)
 ![alt text](https://github.com/pongpon-tienthong/isbnvalidator/raw/master/images/10DigitExample.png)
-* 10 digit ISBNs will be valid if it satisfies this formula
+* 13 digit ISBNs will be valid if it satisfies this formula
 ![alt text](https://github.com/pongpon-tienthong/isbnvalidator/raw/master/images/13DigitFormula.png)
 * Both 10 and 13 digit ISBN can also end with 'X' which is equal to 10.
 
