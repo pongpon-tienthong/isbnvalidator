@@ -3,8 +3,14 @@ package com.supplyhouse.isbnvalidator;
 import org.junit.Test;
 
 import static org.junit.Assert.assertTrue;
+import static org.junit.Assert.fail;
 
 public class ISBNValidatorTest {
+
+	@Test
+	public void failForSure() {
+		fail("Fail for sure!");
+	}
 
 	@Test
 	public void validateValidTenDigitISBNShouldReturnTrue() {
