@@ -15,6 +15,9 @@ gradle-app.setting
 # Log file
 *.log
 
+# Package Files #
+*.jar
+
 # CMake
 cmake-build-*/
 
